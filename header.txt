@@ -1,3 +1,6 @@
 Hello World!
 
-Changes from <master> NEW CHANGES!!!
+Changes from <master>
+Changes from <first>
+
+Text from master: NEW CHANGES!!!
